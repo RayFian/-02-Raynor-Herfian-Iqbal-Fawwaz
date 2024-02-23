@@ -40,3 +40,24 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 | NIM |  2141720260|
 | Nama |  Raynor Herfian Iqbal Fawwaz |
 | Kelas | TI - 3I |
+
+### Jawaban Soal 1
+<img width="960" alt="image" src="https://github.com/RayFian/-02-Raynor-Herfian-Iqbal-Fawwaz-Intro-to-ReactJS/assets/114212607/759c6334-a84e-4c5b-88c7-3f83f3c59a6a">
+
+
+1. TypeScript
+  
+TypeScript adds additional syntax to JavaScript to support a tighter integration with your editor. Catch errors early in your editor. TypeScript code converts to JavaScript, which runs anywhere JavaScript runs: In a browser, on Node.js or Deno and in your apps. TypeScript understands JavaScript and uses type inference to give you great tooling without additional code.
+
+2. ESLint
+
+ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making code more consistent and avoiding bugs.
+
+3. Tailwind CSS
+A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
+
+4. App Router
+The Next.js App Router introduces a model for building applications using React's latest features such as Server Components, Streaming with Suspense, and Server Actions.
+
+5. Import alias
+Import aliases to create shorter and more descriptive import paths for modules. This can make codebase cleaner and more maintainable, as it avoids long relative paths that might become cumbersome, especially in larger projects.
