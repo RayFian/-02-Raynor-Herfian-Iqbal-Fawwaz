@@ -54,10 +54,13 @@ TypeScript adds additional syntax to JavaScript to support a tighter integration
 ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making code more consistent and avoiding bugs.
 
 3. Tailwind CSS
+   
 A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
 
-4. App Router
+5. App Router
+   
 The Next.js App Router introduces a model for building applications using React's latest features such as Server Components, Streaming with Suspense, and Server Actions.
 
-5. Import alias
+7. Import alias
+   
 Import aliases to create shorter and more descriptive import paths for modules. This can make codebase cleaner and more maintainable, as it avoids long relative paths that might become cumbersome, especially in larger projects.
