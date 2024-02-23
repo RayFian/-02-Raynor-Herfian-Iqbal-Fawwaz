@@ -66,4 +66,5 @@ The Next.js App Router introduces a model for building applications using React'
 Import aliases to create shorter and more descriptive import paths for modules. This can make codebase cleaner and more maintainable, as it avoids long relative paths that might become cumbersome, especially in larger projects.
 
 ### Jawaban Soal 2
+<img width="177" alt="image" src="https://github.com/RayFian/-02-Raynor-Herfian-Iqbal-Fawwaz-Intro-to-ReactJS/assets/114212607/464071c6-f7b4-4c4b-9673-75bf562c1bbc">
 
