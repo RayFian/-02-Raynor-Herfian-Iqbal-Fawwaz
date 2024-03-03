@@ -127,3 +127,7 @@ This file is the configuration file for TypeScript, a superset of JavaScript tha
 
 ### Jawaban Soal 3
 <img width="960" alt="image" src="https://github.com/RayFian/-02-Raynor-Herfian-Iqbal-Fawwaz-Intro-to-ReactJS/assets/114212607/1457b904-67a5-480c-b170-ba2885098801">
+
+### Remix Framework
+<img width="960" alt="image" src="https://github.com/RayFian/-02-Raynor-Herfian-Iqbal-Fawwaz-Intro-to-ReactJS/assets/114212607/d603df8c-2148-48b0-86b6-d9bd6022fb71">
+
