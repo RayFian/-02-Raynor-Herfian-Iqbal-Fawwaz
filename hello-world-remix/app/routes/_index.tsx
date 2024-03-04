@@ -7,6 +7,13 @@ export const meta: MetaFunction = () => {
   ];
 };
 
+function MyButton(){
+  return(
+    <button> Saya adalah tombol</button>
+  );
+
+}
+
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
@@ -36,6 +43,10 @@ export default function Index() {
           </a>
         </li>
       </ul>
+    <div>
+      <h1>Selamat datang di aplikasi saya</h1>
+      <MyButton/>
+    </div>
     </div>
   );
 }
