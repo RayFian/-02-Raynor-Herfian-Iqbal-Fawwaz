@@ -14,6 +14,12 @@ function MyButton(){
 
 }
 
+function MyTextNimName() {
+  return(
+    <h1>Raynor Herfian Iqbal Fawwaaz - 2141720260</h1>
+  );
+}
+
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
@@ -46,6 +52,9 @@ export default function Index() {
     <div>
       <h1>Selamat datang di aplikasi saya</h1>
       <MyButton/>
+    </div>
+    <div>
+      <MyTextNimName/>   
     </div>
     </div>
   );
