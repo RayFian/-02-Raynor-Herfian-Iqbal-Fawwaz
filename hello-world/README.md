@@ -131,3 +131,13 @@ This file is the configuration file for TypeScript, a superset of JavaScript tha
 ### Remix Framework
 <img width="960" alt="image" src="https://github.com/RayFian/-02-Raynor-Herfian-Iqbal-Fawwaz-Intro-to-ReactJS/assets/114212607/d603df8c-2148-48b0-86b6-d9bd6022fb71">
 
+### Gatsby Framework
+<img width="960" alt="image" src="https://github.com/RayFian/-02-Raynor-Herfian-Iqbal-Fawwaz-Intro-to-ReactJS/assets/114212607/9ba0ee4e-eb12-4c5a-97fa-d72918714213">
+
+### Jawaban Soal Nomor 4
+<img width="960" alt="image" src="https://github.com/RayFian/-02-Raynor-Herfian-Iqbal-Fawwaz-Intro-to-ReactJS/assets/114212607/645021f3-d58d-40ab-9b16-a8c6d5df4c77">
+
+There is changes in the interface, because the function MyTextNimName() have content inside the function and recalled in the index function to displayed in the website
+
+
+
